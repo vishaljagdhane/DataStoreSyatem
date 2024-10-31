@@ -3,5 +3,13 @@
   margin: 0;
   box-sizing: border-box;
   font-family: Arial, sans-serif;
-  background-color: azure;
+
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
